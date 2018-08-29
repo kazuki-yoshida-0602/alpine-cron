@@ -1,0 +1,2 @@
+# alpine-cron
+alpineでcronを起動するための最低限のDockerfileです
